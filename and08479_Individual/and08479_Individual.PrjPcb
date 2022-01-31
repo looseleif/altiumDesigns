@@ -114,80 +114,67 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=and08479_Individual_1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.DRR
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.EXTREP
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GBL
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GBS
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GM1
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTL
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTO
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTS
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.LDP
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.nsx
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.REP
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.RUL
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Simulation\and08479_Individual.sdf
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.TXT
+DocumentPath=Simulation\and08479_Individual.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for and08479_Individual\and08479_Individual.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for and08479_Individual\Design Rule Check - and08479_Individual.html
 DItemRevisionGUID=
 
@@ -443,7 +430,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Chase\Documents\GitHub\altiumDesigns\and08479_Individual\and08479_Individual.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Chase\Documents\GitHub\altiumDesigns\and08479_Individual\and08479_Individual.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
