@@ -1,0 +1,94 @@
+Removed Member From Class: ClassName=Sheet1 Member=U
+Added Component: Designator=contrast(TRIM_3296W-1-254LF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-1-254LF/Bourns+-+J.W.+Miller/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W-1-254LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3296W-1-254LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-254LF/Bourns+-+J.W.+Miller/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPIO extension(SOP65P780X200-24N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP23018-E/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-24 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP23018-E/SS/Microchip/view-part/285302/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Rblu(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=Rgrn(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=Rred(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=contrast-1
+Added Pin To Net: NetName=+5 Pin=GPIO extension-10
+Added Pin To Net: NetName=+5 Pin=LCD header-2
+Added Pin To Net: NetName=+5 Pin=LCD header-15
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Pin To Net: NetName=+5 Pin=U?-20
+Added Net: Name=+5
+Added Pin To Net: NetName=contWipe Pin=contrast-2
+Added Pin To Net: NetName=contWipe Pin=LCD header-3
+Added Net: Name=contWipe
+Added Pin To Net: NetName=GND Pin=contrast-3
+Added Pin To Net: NetName=GND Pin=GPIO extension-1
+Added Pin To Net: NetName=GND Pin=LCD header-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Net: Name=GND
+Added Pin To Net: NetName=GPA6 Pin=Rblu-2
+Added Net: Name=GPA6
+Added Pin To Net: NetName=GPA7 Pin=Rgrn-2
+Added Net: Name=GPA7
+Added Pin To Net: NetName=GPB0 Pin=Rred-2
+Added Net: Name=GPB0
+Added Pin To Net: NetName=GPB1 Pin=LCD header-14
+Added Net: Name=GPB1
+Added Pin To Net: NetName=GPB2 Pin=LCD header-13
+Added Net: Name=GPB2
+Added Pin To Net: NetName=GPB3 Pin=LCD header-12
+Added Net: Name=GPB3
+Added Pin To Net: NetName=GPB4 Pin=LCD header-11
+Added Net: Name=GPB4
+Added Pin To Net: NetName=GPB5 Pin=LCD header-6
+Added Net: Name=GPB5
+Added Pin To Net: NetName=GPB6 Pin=LCD header-5
+Added Net: Name=GPB6
+Added Pin To Net: NetName=GPB7 Pin=LCD header-4
+Added Net: Name=GPB7
+Added Pin To Net: NetName=NetLCD header_16 Pin=LCD header-16
+Added Pin To Net: NetName=NetLCD header_16 Pin=Rblu-1
+Added Net: Name=NetLCD header_16
+Added Pin To Net: NetName=NetLCD header_17 Pin=LCD header-17
+Added Pin To Net: NetName=NetLCD header_17 Pin=Rgrn-1
+Added Net: Name=NetLCD header_17
+Added Pin To Net: NetName=NetLCD header_18 Pin=LCD header-18
+Added Pin To Net: NetName=NetLCD header_18 Pin=Rred-1
+Added Net: Name=NetLCD header_18
+Added Member To Class: ClassName=Sheet1 Member=Component contrast 3296W-1-254LF
+Added Member To Class: ClassName=Sheet1 Member=Component GPIO extension MCP23018-E/SS
+Added Member To Class: ClassName=Sheet1 Member=Component LCD header Header 18H
+Added Member To Class: ClassName=Sheet1 Member=Component Rblu Res1
+Added Member To Class: ClassName=Sheet1 Member=Component Rgrn Res1
+Added Member To Class: ClassName=Sheet1 Member=Component Rred Res1

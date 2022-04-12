@@ -1,0 +1,94 @@
+Added Component: Designator=DATACON5(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB1130-15-A/Global%20Connector%20Technology/view-part/5160678/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1130-15-A/Global%20Connector%20Technology/view-part/5160678/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DATACON6(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB1130-15-A/Global%20Connector%20Technology/view-part/5160678/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1130-15-A/Global%20Connector%20Technology/view-part/5160678/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=down(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LCD header(MHDR1X18)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=left(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=reset(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=right(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=select(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=up(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM4JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/2774279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-4-1437565-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(DIP787W45P254L3556H508Q28)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP23017-E/SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-28 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP23017-E/SP/Microchip/view-part/48605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component DATACON5 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet1 Member=Component DATACON6 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet1 Member=Component down 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component LCD header MHDR1X18
+Added Member To Class: ClassName=Sheet1 Member=Component left 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component reset 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component right 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component select 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component up 4-1437565-2
+Added Member To Class: ClassName=Sheet1 Member=Component U MCP23017-E/SP
