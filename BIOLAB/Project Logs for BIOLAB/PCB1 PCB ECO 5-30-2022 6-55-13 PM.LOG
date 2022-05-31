@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetLCD header_16 Pin=R?-2
+Add Component: Footprint Not Found DIP787W46P254L3467H508Q28
+Add Pin To Net: Unknown Pin: Pin ATMega328P-1
+Add Pin To Net: Unknown Pin: Pin ATMega328P-2
+Add Pin To Net: Unknown Pin: Pin ATMega328P-3
+Add Pin To Net: Unknown Pin: Pin ATMega328P-5
+Add Pin To Net: Unknown Pin: Pin ATMega328P-6
+Add Pin To Net: Unknown Pin: Pin ATMega328P-7
+Add Pin To Net: Unknown Pin: Pin ATMega328P-8
+Add Pin To Net: Unknown Pin: Pin ATMega328P-9
+Add Pin To Net: Unknown Pin: Pin ATMega328P-10
+Add Pin To Net: Unknown Pin: Pin ATMega328P-11
+Add Pin To Net: Unknown Pin: Pin ATMega328P-15
+Add Pin To Net: Unknown Pin: Pin ATMega328P-16
+Add Pin To Net: Unknown Pin: Pin ATMega328P-17
+Add Pin To Net: Unknown Pin: Pin ATMega328P-20
+Add Pin To Net: Unknown Pin: Pin ATMega328P-21
+Add Pin To Net: Unknown Pin: Pin ATMega328P-22
+Add Pin To Net: Unknown Pin: Pin ATMega328P-23
+Add Pin To Net: Unknown Pin: Pin ATMega328P-24
+Add Pin To Net: Unknown Pin: Pin ATMega328P-25
+Add Pin To Net: Unknown Pin: Pin ATMega328P-26
+Add Pin To Net: Unknown Pin: Pin ATMega328P-27
+Add Pin To Net: Unknown Pin: Pin ATMega328P-28
+Added Pin To Net: NetName=NetLCD header_16 Pin=Rred-1
+Add Class Member: Failed to add class member : Component ATMega328P ATMEGA328-PU

@@ -1,0 +1,55 @@
+Add Component: Footprint Not Found DIP787W46P254L3467H508Q28
+Added Component: Designator=inReg(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=outReg(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin ATMega328P-1
+Add Pin To Net: Unknown Pin: Pin ATMega328P-2
+Add Pin To Net: Unknown Pin: Pin ATMega328P-3
+Add Pin To Net: Unknown Pin: Pin ATMega328P-5
+Add Pin To Net: Unknown Pin: Pin ATMega328P-6
+Add Pin To Net: Unknown Pin: Pin ATMega328P-7
+Add Pin To Net: Unknown Pin: Pin ATMega328P-8
+Add Pin To Net: Unknown Pin: Pin ATMega328P-9
+Add Pin To Net: Unknown Pin: Pin ATMega328P-10
+Add Pin To Net: Unknown Pin: Pin ATMega328P-11
+Add Pin To Net: Unknown Pin: Pin ATMega328P-15
+Add Pin To Net: Unknown Pin: Pin ATMega328P-16
+Add Pin To Net: Unknown Pin: Pin ATMega328P-17
+Add Pin To Net: Unknown Pin: Pin ATMega328P-20
+Add Pin To Net: Unknown Pin: Pin ATMega328P-21
+Add Pin To Net: Unknown Pin: Pin ATMega328P-22
+Add Pin To Net: Unknown Pin: Pin ATMega328P-23
+Add Pin To Net: Unknown Pin: Pin ATMega328P-24
+Add Pin To Net: Unknown Pin: Pin ATMega328P-25
+Add Pin To Net: Unknown Pin: Pin ATMega328P-26
+Add Pin To Net: Unknown Pin: Pin ATMega328P-27
+Add Pin To Net: Unknown Pin: Pin ATMega328P-28
+Added Pin To Net: NetName=+12 Pin=inReg-1
+Added Pin To Net: NetName=GND Pin=inReg-2
+Added Pin To Net: NetName=+5 Pin=outReg-1
+Added Pin To Net: NetName=GND Pin=outReg-2
+Add Class Member: Failed to add class member : Component ATMega328P ATMEGA328-PU
+Added Member To Class: ClassName=Sheet1 Member=Component inReg Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet1 Member=Component outReg Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet1 Member=Component R? R_0805_499_1%

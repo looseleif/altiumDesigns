@@ -1,0 +1,86 @@
+Change Component Designator: OldDesignator=DATACON1 NewDesignator=DCON1
+Change Component Designator: OldDesignator=DATACON2 NewDesignator=DCON2
+Change Component Designator: OldDesignator=DATACON3 NewDesignator=DACON1
+Change Component Designator: OldDesignator=DATACON4 NewDesignator=ACON1
+Change Component Designator: OldDesignator=DATACON5 NewDesignator=ACON2
+Change Component Designator: OldDesignator=DATACON6 NewDesignator=DACON2
+Add Component: Footprint Not Found DIP787W46P254L3467H508Q28
+Added Component: Designator=PGM(MHDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=ACON1-1
+Added Pin To Net: NetName=GND Pin=ACON1-4
+Added Pin To Net: NetName=+5 Pin=ACON2-1
+Added Pin To Net: NetName=GND Pin=ACON2-4
+Add Pin To Net: Unknown Pin: Pin ATMega328P-7
+Add Pin To Net: Unknown Pin: Pin ATMega328P-8
+Add Pin To Net: Unknown Pin: Pin ATMega328P-9
+Add Pin To Net: Unknown Pin: Pin ATMega328P-10
+Add Pin To Net: Unknown Pin: Pin ATMega328P-20
+Add Pin To Net: Unknown Pin: Pin ATMega328P-21
+Add Pin To Net: Unknown Pin: Pin ATMega328P-22
+Add Pin To Net: Unknown Pin: Pin ATMega328P-27
+Add Pin To Net: Unknown Pin: Pin ATMega328P-28
+Added Pin To Net: NetName=GND Pin=Cbulk2-1
+Added Pin To Net: NetName=+5 Pin=DACON1-1
+Added Pin To Net: NetName=GND Pin=DACON1-4
+Added Pin To Net: NetName=+5 Pin=DACON2-1
+Added Pin To Net: NetName=GND Pin=DACON2-4
+Added Pin To Net: NetName=+5 Pin=DCON1-1
+Added Pin To Net: NetName=GND Pin=DCON1-4
+Added Pin To Net: NetName=+5 Pin=DCON2-1
+Added Pin To Net: NetName=GND Pin=DCON2-4
+Added Pin To Net: NetName=GND Pin=down-1
+Added Pin To Net: NetName=GND Pin=down-2
+Added Pin To Net: NetName=GPA2 Pin=down-3
+Added Pin To Net: NetName=GPA2 Pin=down-4
+Added Pin To Net: NetName=GND Pin=left-1
+Added Pin To Net: NetName=GND Pin=left-2
+Added Pin To Net: NetName=GPA4 Pin=left-3
+Added Pin To Net: NetName=GPA4 Pin=left-4
+Added Pin To Net: NetName=GND Pin=reset-1
+Added Pin To Net: NetName=GND Pin=reset-2
+Added Pin To Net: NetName=GND Pin=right-1
+Added Pin To Net: NetName=GND Pin=right-2
+Added Pin To Net: NetName=GPA1 Pin=right-3
+Added Pin To Net: NetName=GPA1 Pin=right-4
+Added Pin To Net: NetName=GND Pin=select-1
+Added Pin To Net: NetName=GND Pin=select-2
+Added Pin To Net: NetName=GPA0 Pin=select-3
+Added Pin To Net: NetName=GPA0 Pin=select-4
+Added Pin To Net: NetName=GND Pin=up-1
+Added Pin To Net: NetName=GND Pin=up-2
+Added Pin To Net: NetName=GPA3 Pin=up-3
+Added Pin To Net: NetName=GPA3 Pin=up-4
+Added Pin To Net: NetName=ACON1-A1 Pin=ACON1-2
+Added Pin To Net: NetName=ACON1-A1 Pin=DACON1-3
+Added Net: Name=ACON1-A1
+Added Pin To Net: NetName=ACON1-A2 Pin=ACON1-3
+Added Net: Name=ACON1-A2
+Added Pin To Net: NetName=ACON2-A1 Pin=ACON2-2
+Added Net: Name=ACON2-A1
+Added Pin To Net: NetName=ACON2-A2 Pin=ACON2-3
+Added Pin To Net: NetName=ACON2-A2 Pin=DACON2-3
+Added Net: Name=ACON2-A2
+Added Pin To Net: NetName=DACON1-D1 Pin=DACON1-2
+Added Net: Name=DACON1-D1
+Added Pin To Net: NetName=DACON2-D1 Pin=DACON2-2
+Added Net: Name=DACON2-D1
+Added Pin To Net: NetName=DCON1-D1 Pin=DCON1-2
+Added Net: Name=DCON1-D1
+Added Pin To Net: NetName=DCON1-D2 Pin=DCON1-3
+Added Net: Name=DCON1-D2
+Added Pin To Net: NetName=DCON2-D1 Pin=DCON2-2
+Added Net: Name=DCON2-D1
+Added Pin To Net: NetName=DCON2-D2 Pin=DCON2-3
+Added Net: Name=DCON2-D2
+Added Pin To Net: NetName=RESET Pin=reset-3
+Added Pin To Net: NetName=RESET Pin=reset-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX Pin=PGM-1
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=PGM-2
+Added Net: Name=TX
+Add Class Member: Failed to add class member : Component ATMega328P ATMEGA328-PU
+Added Member To Class: ClassName=Sheet1 Member=Component PGM MHDR1X2
