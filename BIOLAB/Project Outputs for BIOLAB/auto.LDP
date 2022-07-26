@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: C:\Users\Chase\Desktop\GitHub\altiumDesigns\BIOLAB\auto.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=auto-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=auto-rectholes-plated.txt|DrillLayers=gtl,gbl
-LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=auto-nonplated.txt|DrillLayers=gtl,gbl

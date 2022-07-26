@@ -173,6 +173,94 @@ DocumentPath=Project Outputs for BIOLAB\auto.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for BIOLAB\autoPCB-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for BIOLAB\autoPCB-RectHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for BIOLAB\autoPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
 DocumentPath=Project Outputs for BIOLAB\Design Rule Check - autoPCB.html
 DItemRevisionGUID=
 
@@ -415,7 +503,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\Chase\Desktop\GitHub\altiumDesigns\BIOLAB\auto.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\Chase\Documents\personal\altiumDesigns\BIOLAB\autoPCB.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -480,7 +568,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16908289~1,16908290~1,16908291~1,16908301~1,16908303~1,16908305~1,16908307~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Chase\Desktop\GitHub\altiumDesigns\BIOLAB\auto.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16908289~1,16908290~1,16908291~1,16908301~1,16908303~1,16908305~1,16908307~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Chase\Documents\personal\altiumDesigns\BIOLAB\autoPCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
