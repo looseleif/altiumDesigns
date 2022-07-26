@@ -1,0 +1,483 @@
+Added Component: Designator=ACON1(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACON2(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2013X135X45ML10T25)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2013X135X45ML10T25)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=comms(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_FOXSDLF/160-20
+Added Component: Designator=DACON1(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DACON2(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DCON1(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DCON2(GCT_USB1130-15-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1130-15-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=down1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=leds(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=left1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=logicShifter(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4050BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=oled(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=power(NINIGI_DC-005)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Best Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DC-005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=reg3(LD1117DT33)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'STMicroelectronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LF33CDT-TRY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Added Component: Designator=reset1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=right1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=select1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=uC(DIP254P1524X483-40)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Microchip Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA644PV-10PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=up1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=ACON1-1
+Added Pin To Net: NetName=ACON1-A1 Pin=ACON1-2
+Added Pin To Net: NetName=ACON1-A2 Pin=ACON1-3
+Added Pin To Net: NetName=GND Pin=ACON1-4
+Added Pin To Net: NetName=+5 Pin=ACON2-1
+Added Pin To Net: NetName=ACON2-A1 Pin=ACON2-2
+Added Pin To Net: NetName=ACON2-A2 Pin=ACON2-3
+Added Pin To Net: NetName=GND Pin=ACON2-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+12 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=OSC+ Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=OSC- Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+12 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=RX Pin=comms-1
+Added Pin To Net: NetName=TX Pin=comms-2
+Add Pin To Net: Unknown Pin: Pin crystal-1
+Add Pin To Net: Unknown Pin: Pin crystal-2
+Added Pin To Net: NetName=+5 Pin=DACON1-1
+Added Pin To Net: NetName=DACON1-D1 Pin=DACON1-2
+Added Pin To Net: NetName=ACON1-A1 Pin=DACON1-3
+Added Pin To Net: NetName=GND Pin=DACON1-4
+Added Pin To Net: NetName=+5 Pin=DACON2-1
+Added Pin To Net: NetName=DACON2-D1 Pin=DACON2-2
+Added Pin To Net: NetName=ACON2-A2 Pin=DACON2-3
+Added Pin To Net: NetName=GND Pin=DACON2-4
+Added Pin To Net: NetName=+5 Pin=DCON1-1
+Added Pin To Net: NetName=DCON1-D1 Pin=DCON1-2
+Added Pin To Net: NetName=DCON1-D2 Pin=DCON1-3
+Added Pin To Net: NetName=GND Pin=DCON1-4
+Added Pin To Net: NetName=+5 Pin=DCON2-1
+Added Pin To Net: NetName=DCON2-D1 Pin=DCON2-2
+Added Pin To Net: NetName=DCON2-D2 Pin=DCON2-3
+Added Pin To Net: NetName=GND Pin=DCON2-4
+Added Pin To Net: NetName=GND Pin=down1-1
+Added Pin To Net: NetName=GND Pin=down1-2
+Added Pin To Net: NetName=dwn Pin=down1-3
+Added Pin To Net: NetName=dwn Pin=down1-4
+Added Pin To Net: NetName=+5 Pin=leds-1
+Added Pin To Net: NetName=GND Pin=leds-2
+Added Pin To Net: NetName=GND Pin=leds-3
+Added Pin To Net: NetName=Netleds_4 Pin=leds-4
+Added Pin To Net: NetName=GND Pin=left1-1
+Added Pin To Net: NetName=GND Pin=left1-2
+Added Pin To Net: NetName=lft Pin=left1-3
+Added Pin To Net: NetName=lft Pin=left1-4
+Added Pin To Net: NetName=+3 Pin=logicShifter-1
+Added Pin To Net: NetName=SCK Pin=logicShifter-5
+Added Pin To Net: NetName=MOSI Pin=logicShifter-7
+Added Pin To Net: NetName=GND Pin=logicShifter-8
+Added Pin To Net: NetName=SS Pin=logicShifter-9
+Added Pin To Net: NetName=RESET Pin=logicShifter-11
+Added Pin To Net: NetName=GND Pin=oled-1
+Added Pin To Net: NetName=+3 Pin=oled-2
+Added Pin To Net: NetName=GND Pin=oled-20
+Added Pin To Net: NetName=GND Pin=power-2
+Added Pin To Net: NetName=GND Pin=power-3
+Added Pin To Net: NetName=+12 Pin=power-4
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R2-2
+Added Pin To Net: NetName=LEDSIG Pin=R3-1
+Added Pin To Net: NetName=Netleds_4 Pin=R3-2
+Added Pin To Net: NetName=+12 Pin=reg3-1
+Added Pin To Net: NetName=+3 Pin=reg3-2
+Added Pin To Net: NetName=GND Pin=reg3-3
+Add Pin To Net: Unknown Pin: Pin reg5-1
+Add Pin To Net: Unknown Pin: Pin reg5-2
+Add Pin To Net: Unknown Pin: Pin reg5-3
+Added Pin To Net: NetName=GND Pin=reset1-1
+Added Pin To Net: NetName=GND Pin=reset1-2
+Added Pin To Net: NetName=rst Pin=reset1-3
+Added Pin To Net: NetName=rst Pin=reset1-4
+Added Pin To Net: NetName=GND Pin=right1-1
+Added Pin To Net: NetName=GND Pin=right1-2
+Added Pin To Net: NetName=rit Pin=right1-3
+Added Pin To Net: NetName=rit Pin=right1-4
+Added Pin To Net: NetName=GND Pin=select1-1
+Added Pin To Net: NetName=GND Pin=select1-2
+Added Pin To Net: NetName=sel Pin=select1-3
+Added Pin To Net: NetName=sel Pin=select1-4
+Added Pin To Net: NetName=DCON2-D1 Pin=uC-2
+Added Pin To Net: NetName=DCON2-D2 Pin=uC-3
+Added Pin To Net: NetName=DACON2-D1 Pin=uC-4
+Added Pin To Net: NetName=SS Pin=uC-5
+Added Pin To Net: NetName=MOSI Pin=uC-6
+Added Pin To Net: NetName=MISO Pin=uC-7
+Added Pin To Net: NetName=SCK Pin=uC-8
+Added Pin To Net: NetName=RESET Pin=uC-9
+Added Pin To Net: NetName=+5 Pin=uC-10
+Added Pin To Net: NetName=GND Pin=uC-11
+Added Pin To Net: NetName=OSC- Pin=uC-12
+Added Pin To Net: NetName=OSC+ Pin=uC-13
+Added Pin To Net: NetName=RX Pin=uC-14
+Added Pin To Net: NetName=TX Pin=uC-15
+Added Pin To Net: NetName=up Pin=uC-16
+Added Pin To Net: NetName=dwn Pin=uC-17
+Added Pin To Net: NetName=lft Pin=uC-18
+Added Pin To Net: NetName=rit Pin=uC-19
+Added Pin To Net: NetName=sel Pin=uC-20
+Added Pin To Net: NetName=rst Pin=uC-21
+Added Pin To Net: NetName=SCL Pin=uC-22
+Added Pin To Net: NetName=SDA Pin=uC-23
+Added Pin To Net: NetName=+5 Pin=uC-30
+Added Pin To Net: NetName=GND Pin=uC-31
+Added Pin To Net: NetName=+5 Pin=uC-32
+Added Pin To Net: NetName=LEDSIG Pin=uC-33
+Added Pin To Net: NetName=DCON1-D2 Pin=uC-34
+Added Pin To Net: NetName=DACON1-D1 Pin=uC-35
+Added Pin To Net: NetName=DCON1-D1 Pin=uC-36
+Added Pin To Net: NetName=ACON2-A2 Pin=uC-37
+Added Pin To Net: NetName=ACON2-A1 Pin=uC-38
+Added Pin To Net: NetName=ACON1-A2 Pin=uC-39
+Added Pin To Net: NetName=ACON1-A1 Pin=uC-40
+Added Pin To Net: NetName=GND Pin=up1-1
+Added Pin To Net: NetName=GND Pin=up1-2
+Added Pin To Net: NetName=up Pin=up1-3
+Added Pin To Net: NetName=up Pin=up1-4
+Added Pin To Net: NetName=DC Pin=logicShifter-3
+Added Pin To Net: NetName=DC Pin=uC-24
+Added Net: Name=DC
+Added Pin To Net: NetName=NetlogicShifter_2 Pin=logicShifter-2
+Added Pin To Net: NetName=NetlogicShifter_2 Pin=oled-4
+Added Net: Name=NetlogicShifter_2
+Added Pin To Net: NetName=NetlogicShifter_4 Pin=logicShifter-4
+Added Pin To Net: NetName=NetlogicShifter_4 Pin=oled-7
+Added Net: Name=NetlogicShifter_4
+Added Pin To Net: NetName=NetlogicShifter_6 Pin=logicShifter-6
+Added Pin To Net: NetName=NetlogicShifter_6 Pin=oled-8
+Added Net: Name=NetlogicShifter_6
+Added Pin To Net: NetName=NetlogicShifter_10 Pin=logicShifter-10
+Added Pin To Net: NetName=NetlogicShifter_10 Pin=oled-15
+Added Net: Name=NetlogicShifter_10
+Added Pin To Net: NetName=NetlogicShifter_12 Pin=logicShifter-12
+Added Pin To Net: NetName=NetlogicShifter_12 Pin=oled-16
+Added Net: Name=NetlogicShifter_12
+Added Member To Class: ClassName=Sheet2 Member=Component ACON1 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component ACON2 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component C1 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C2 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C3 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C4 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C5 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C6 Capacitor 1 uF +/- 10% 50 V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C7 Capacitor 1 uF +/- 10% 50 V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C8 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C9 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C10 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C? Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component comms Header 2
+Add Class Member: Failed to add class member : Component crystal FC4SDCBMM16.0-T1
+Added Member To Class: ClassName=Sheet2 Member=Component DACON1 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component DACON2 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component DCON1 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component DCON2 USB1130-15-A_REVA
+Added Member To Class: ClassName=Sheet2 Member=Component down1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component leds Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component left1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component logicShifter CD4050BE
+Added Member To Class: ClassName=Sheet2 Member=Component oled Header 20
+Added Member To Class: ClassName=Sheet2 Member=Component power DC-005
+Added Member To Class: ClassName=Sheet2 Member=Component R1 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R2 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R3 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component reg3 LF33CDT-TRY
+Add Class Member: Failed to add class member : Component reg5 LM78M05CT
+Added Member To Class: ClassName=Sheet2 Member=Component reset1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component right1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component select1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component uC ATMEGA644PV-10PU
+Added Member To Class: ClassName=Sheet2 Member=Component up1 4-1437565-2
+Added Room: Name=Sheet2

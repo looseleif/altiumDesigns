@@ -1,0 +1,94 @@
+Added Component: Designator=R4(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805_Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?keywords=YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_0805_4.7K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey PN"; Value = "YAG3738TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805_Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "resistor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Andrew Wu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=+5 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=+3 Pin=R9-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Sheet2 Member=Component R4 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R5 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R6 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R7 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R8 R_0805_4.7K_1%
+Added Member To Class: ClassName=Sheet2 Member=Component R9 R_0805_4.7K_1%
+Added Room: Name=Sheet2

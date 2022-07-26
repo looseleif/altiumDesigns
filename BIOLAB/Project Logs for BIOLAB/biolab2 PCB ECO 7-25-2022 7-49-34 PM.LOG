@@ -1,0 +1,221 @@
+Change Component Designator: OldDesignator=Cbulk1 NewDesignator=C1
+Change Component Designator: OldDesignator=Cbulk2 NewDesignator=C2
+Change Component Designator: OldDesignator=Cbulk3 NewDesignator=C3
+Change Component Designator: OldDesignator=CinReg NewDesignator=C4
+Change Component Designator: OldDesignator=Cload+? NewDesignator=C6
+Change Component Designator: OldDesignator=Cload-? NewDesignator=C7
+Change Component Designator: OldDesignator=CoutReg NewDesignator=C5
+Change Component Designator: OldDesignator=Cstrip NewDesignator=C8
+Change Component Designator: OldDesignator=Dstrip NewDesignator=R3
+Change Component Designator: OldDesignator=P? NewDesignator=leds
+Change Component Designator: OldDesignator=Rscl? NewDesignator=R2
+Change Component Designator: OldDesignator=Rsda? NewDesignator=R1
+Added Component: Designator=3-3Vreg(LD1117DT33)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'STMicroelectronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LF33CDT-TRY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found XTAL_FOXSDLF/160-20
+Added Component: Designator=C9(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC0805(2012)145_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=comms(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_FOXSDLF/160-20
+Added Component: Designator=down1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=left1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=oled(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=pow5(CUI_PJ-044BH)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-044BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=pow12(CUI_PJ-044BH)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-044BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=reset1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=right1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=select1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=up1(SW_4-1437565-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4-1437565-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=3-3Vreg-1
+Added Pin To Net: NetName=GND Pin=3-3Vreg-3
+Add Pin To Net: Unknown Pin: Pin 5V-1
+Add Pin To Net: Unknown Pin: Pin 5V-2
+Add Pin To Net: Unknown Pin: Pin 5V-3
+Add Pin To Net: Unknown Pin: Pin 5Vreg-1
+Add Pin To Net: Unknown Pin: Pin 5Vreg-3
+Add Pin To Net: Unknown Pin: Pin 16MHz Crystal-1
+Add Pin To Net: Unknown Pin: Pin 16MHz Crystal-2
+Added Pin To Net: NetName=+12 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=RX Pin=comms-1
+Added Pin To Net: NetName=TX Pin=comms-2
+Add Pin To Net: Unknown Pin: Pin crystal-1
+Add Pin To Net: Unknown Pin: Pin crystal-2
+Added Pin To Net: NetName=GND Pin=down1-1
+Added Pin To Net: NetName=GND Pin=down1-2
+Added Pin To Net: NetName=GND Pin=left1-1
+Added Pin To Net: NetName=GND Pin=left1-2
+Added Pin To Net: NetName=+5 Pin=pow5-1
+Added Pin To Net: NetName=GND Pin=pow5-2
+Added Pin To Net: NetName=GND Pin=pow5-3
+Added Pin To Net: NetName=+12 Pin=pow12-1
+Added Pin To Net: NetName=GND Pin=pow12-2
+Added Pin To Net: NetName=GND Pin=pow12-3
+Added Pin To Net: NetName=GND Pin=reset1-1
+Added Pin To Net: NetName=GND Pin=reset1-2
+Added Pin To Net: NetName=GND Pin=right1-1
+Added Pin To Net: NetName=GND Pin=right1-2
+Added Pin To Net: NetName=GND Pin=select1-1
+Added Pin To Net: NetName=GND Pin=select1-2
+Added Pin To Net: NetName=DCON2-D1 Pin=uC-2
+Added Pin To Net: NetName=DCON2-D2 Pin=uC-3
+Added Pin To Net: NetName=DACON2-D1 Pin=uC-4
+Added Pin To Net: NetName=RESET Pin=uC-9
+Added Pin To Net: NetName=GND Pin=uC-11
+Added Pin To Net: NetName=OSC- Pin=uC-12
+Added Pin To Net: NetName=OSC+ Pin=uC-13
+Added Pin To Net: NetName=RX Pin=uC-14
+Added Pin To Net: NetName=TX Pin=uC-15
+Added Pin To Net: NetName=SCL Pin=uC-22
+Added Pin To Net: NetName=SDA Pin=uC-23
+Added Pin To Net: NetName=GND Pin=uC-31
+Added Pin To Net: NetName=+5 Pin=uC-32
+Added Pin To Net: NetName=LEDSIG Pin=uC-33
+Added Pin To Net: NetName=DCON1-D2 Pin=uC-34
+Added Pin To Net: NetName=DACON1-D1 Pin=uC-35
+Added Pin To Net: NetName=DCON1-D1 Pin=uC-36
+Added Pin To Net: NetName=ACON2-A2 Pin=uC-37
+Added Pin To Net: NetName=ACON2-A1 Pin=uC-38
+Added Pin To Net: NetName=ACON1-A2 Pin=uC-39
+Added Pin To Net: NetName=ACON1-A1 Pin=uC-40
+Added Pin To Net: NetName=GND Pin=up1-1
+Added Pin To Net: NetName=GND Pin=up1-2
+Change Net Name : Old Net Name=NetDstrip_2 New Net Name=Netleds_4
+Added Pin To Net: NetName=+3 Pin=3-3Vreg-2
+Added Pin To Net: NetName=+3 Pin=C10-1
+Added Net: Name=+3
+Added Pin To Net: NetName=dwn Pin=down1-3
+Added Pin To Net: NetName=dwn Pin=down1-4
+Added Pin To Net: NetName=dwn Pin=uC-17
+Added Net: Name=dwn
+Added Pin To Net: NetName=lft Pin=left1-3
+Added Pin To Net: NetName=lft Pin=left1-4
+Added Pin To Net: NetName=lft Pin=uC-18
+Added Net: Name=lft
+Added Pin To Net: NetName=MISO Pin=uC-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=uC-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net5Vreg_2 Pin=C5-2
+Added Net: Name=Net5Vreg_2
+Added Pin To Net: NetName=rit Pin=right1-3
+Added Pin To Net: NetName=rit Pin=right1-4
+Added Pin To Net: NetName=rit Pin=uC-19
+Added Net: Name=rit
+Added Pin To Net: NetName=rst Pin=reset1-3
+Added Pin To Net: NetName=rst Pin=reset1-4
+Added Pin To Net: NetName=rst Pin=uC-21
+Added Net: Name=rst
+Added Pin To Net: NetName=SCK Pin=uC-8
+Added Net: Name=SCK
+Added Pin To Net: NetName=sel Pin=select1-3
+Added Pin To Net: NetName=sel Pin=select1-4
+Added Pin To Net: NetName=sel Pin=uC-20
+Added Net: Name=sel
+Added Pin To Net: NetName=SS Pin=uC-5
+Added Net: Name=SS
+Added Pin To Net: NetName=up Pin=uC-16
+Added Pin To Net: NetName=up Pin=up1-3
+Added Pin To Net: NetName=up Pin=up1-4
+Added Net: Name=up
+Added Member To Class: ClassName=Sheet2 Member=Component 3-3Vreg LF33CDT-TRY
+Add Class Member: Failed to add class member : Component 5Vreg LM78M05CT
+Add Class Member: Failed to add class member : Component 5V LM78M05CT
+Add Class Member: Failed to add class member : Component 16MHz Crystal FC4SDCBMM16.0-T1
+Added Member To Class: ClassName=Sheet2 Member=Component C9 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C10 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=Sheet2 Member=Component comms Header 2
+Add Class Member: Failed to add class member : Component crystal FC4SDCBMM16.0-T1
+Added Member To Class: ClassName=Sheet2 Member=Component down1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component left1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component oled Header 20
+Added Member To Class: ClassName=Sheet2 Member=Component pow5 PJ-044BH
+Added Member To Class: ClassName=Sheet2 Member=Component pow12 PJ-044BH
+Added Member To Class: ClassName=Sheet2 Member=Component reset1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component right1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component select1 4-1437565-2
+Added Member To Class: ClassName=Sheet2 Member=Component up1 4-1437565-2
