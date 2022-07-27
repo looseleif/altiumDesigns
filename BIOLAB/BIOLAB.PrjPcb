@@ -81,187 +81,91 @@ GenerateClassCluster=0
 DocumentUniqueId=YASANHZI
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for BIOLAB\auto-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BIOLAB\auto-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for BIOLAB\auto-RectHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for BIOLAB\auto.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for BIOLAB\auto.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for BIOLAB\auto.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for BIOLAB\auto.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for BIOLAB\auto.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for BIOLAB\auto.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for BIOLAB\auto.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for BIOLAB\auto.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for BIOLAB\auto.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for BIOLAB\auto.GM17
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for BIOLAB\auto.GM19
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for BIOLAB\auto.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for BIOLAB\auto.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for BIOLAB\auto.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for BIOLAB\auto.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for BIOLAB\auto.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for BIOLAB\auto.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for BIOLAB\auto.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for BIOLAB\auto.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for BIOLAB\auto.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
 DocumentPath=Project Outputs for BIOLAB\autoPCB-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for BIOLAB\autoPCB-RectHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM17
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GM19
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for BIOLAB\autoPCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for BIOLAB\Design Rule Check - autoPCB.html
 DItemRevisionGUID=
 
 [Configuration1]
