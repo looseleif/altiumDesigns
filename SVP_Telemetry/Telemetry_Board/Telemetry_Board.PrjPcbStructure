@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Telemetry_SCH.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Telemetry_SCH.SchDoc|Designator=AirLift|SchDesignator=AirLift|FileName=AIRLIFT_SCH.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=AIRLIFT_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Telemetry_SCH.SchDoc|Designator=uC Interface|SchDesignator=uC Interface|FileName=MCU_SCH.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
