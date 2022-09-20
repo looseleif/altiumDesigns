@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=can_if Member=J?
+Removed Member From Class: ClassName=program_if Member=J?
+Removed Member From Class: ClassName=sd_if Member=J?
+Removed Member From Class: ClassName=usb_if Member=J?
+Removed Member From Class: ClassName=power_if Member=U?
+Change Component Designator: OldDesignator=* NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=P? NewDesignator=J5
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=J1(TE_DTM1312PA12PBR008)
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "DTM1312PA12PBR008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1734-1131-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-deutsch-connectors/DTM13-12PA-12PB-R008/1734-1131-ND/6566695?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DTM13-12PA-12PB-R008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DTM13-12PA-12PB-R008/TE%20Connectivity%20Deutsch%20Connectors/view-part/490507/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SnapEDAsch.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-DTM1312PA12PBR008.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=can_if Member=Component J1 DTM1312PA12PBR008
+Added Member To Class: ClassName=usb_if Member=Component J2 DX07S024WJ1R350
+Added Member To Class: ClassName=sd_if Member=Component J3 J_5027740891
+Added Member To Class: ClassName=program_if Member=Component J6 3221-10-0300-00
+Added Member To Class: ClassName=power_if Member=Component U3 U_R-785.0-0.5
+Added Member To Class: ClassName=power_if Member=Component U4 U_R-78C3.3-1.0
+Added Member To Class: ClassName=program_if Member=Component X? AB26TRB-32.768KHZ-T
