@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=mcu_if Member=STM32
+Added Component: Designator=P?(HDR2X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TSQFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "170Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "JTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SIP3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.digikey.com/product-search/en?vendor=0&keywords=R-785.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "U_R-785.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Known Distributors"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "R-785.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "6.81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Common.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Vivien Wang"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SIP3)
+Add component (AddParameter): Name = "Current - Output (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "U_R-78C3.3-1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Efficiency"; Value = "89%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "R-78C3.3-1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.45" L x 0.30" W x 0.40" H (11.5mm x 7.5mm x 10.2mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "BP_Control.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVP Creator"; Value = "Vivien Wang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "42V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 1"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TCAN337GD-Footprint-1)
+Added Class: Name=esp_if
+Added Class: Name=power_if
+Added Member To Class: ClassName=can_if Member=Component J? J_1843253
+Added Member To Class: ClassName=program_if Member=Component J? 3221-10-0300-00
+Added Member To Class: ClassName=sd_if Member=Component J? J_5027740891
+Added Member To Class: ClassName=usb_if Member=Component J? DX07S024WJ1R350
+Added Member To Class: ClassName=mcu_if Member=Component U1 STM32G473VET6
+Added Member To Class: ClassName=can_if Member=Component U? TCAN337GD
+Added Room: Name=esp_if
+Added Room: Name=power_if

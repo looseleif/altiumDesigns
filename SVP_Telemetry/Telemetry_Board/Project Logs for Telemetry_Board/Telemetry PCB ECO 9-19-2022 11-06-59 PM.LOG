@@ -1,0 +1,36 @@
+Added Component: Designator=*(XBP9B-DMST-002-Footprint-1)
+Added Component: Designator=J?(J_1843253-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=STM32-6
+Added Pin To Net: NetName=+3.3 Pin=STM32-11
+Added Pin To Net: NetName=+3.3 Pin=STM32-21
+Added Pin To Net: NetName=+3.3 Pin=STM32-22
+Added Pin To Net: NetName=+3.3 Pin=STM32-28
+Added Pin To Net: NetName=+3.3 Pin=STM32-50
+Added Pin To Net: NetName=+3.3 Pin=STM32-73
+Added Pin To Net: NetName=+3.3 Pin=STM32-75
+Added Pin To Net: NetName=+3.3 Pin=STM32-100
+Added Net: Name=+3.3
+Added Pin To Net: NetName=GND Pin=STM32-10
+Added Pin To Net: NetName=GND Pin=STM32-19
+Added Pin To Net: NetName=GND Pin=STM32-20
+Added Pin To Net: NetName=GND Pin=STM32-27
+Added Pin To Net: NetName=GND Pin=STM32-49
+Added Pin To Net: NetName=GND Pin=STM32-74
+Added Pin To Net: NetName=GND Pin=STM32-99
+Added Net: Name=GND
+Change Class Name : Old Net Name=uC Interface New Net Name=mcu_if
+Added Class: Name=can_if
+Added Class: Name=xbee_if
+Added Room: Name=can_if
+Added Room: Name=mcu_if
+Added Room: Name=xbee_if
